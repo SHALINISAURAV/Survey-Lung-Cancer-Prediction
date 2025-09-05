@@ -110,7 +110,7 @@ It demonstrates the **end-to-end ML workflow**: from **data preprocessing** → 
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Author✨
 **Shalini Saurav**  
 📧 Contact: [shalinisourav07@gmail.com]  
 
